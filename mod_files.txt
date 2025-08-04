@@ -1,0 +1,3 @@
+add main/raw/character/playercommon.pac
+add AceTweaks.hmm
+add mod.ini
