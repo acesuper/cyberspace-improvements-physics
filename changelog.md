@@ -1,8 +1,8 @@
 ## Ace Cyberspace Tweaks
 
-###### Version 1.9
+###### Version 1.1
 
-* rail grinding improvement (2D)
+* drop dash improvement (3D)
 
 
 
