@@ -1,8 +1,8 @@
-## Ace Cyberspace Tweaks
+## cyber space improvements - Ace physics
 
-###### Version 1.1
+###### Version 1.0
 
-* drop dash improvement (3D)
+* ## cyber space improvements
 
 
 
